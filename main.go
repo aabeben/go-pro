@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hi there")
+	fmt.Println("TODO: add some features")
 }
